@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Executers + Handlers</string>
+    <string name="listaDeMusicas">Lista de musicas</string>
+    <string name="inciciarCarregamento">Inciciar carregamento</string>
+</resources>
